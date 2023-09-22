@@ -54,3 +54,5 @@ module.exports = {
     handler:reqHandler,
     someText:'Hi'
 };  //we are exporting the function as a module
+
+//module.export = reqHandler
